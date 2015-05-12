@@ -2,10 +2,10 @@
 
 A little list about some Maven commands:
 
-* release
+## deploy
 
     $ mvn clean source:jar javadoc:jar deploy
-
-* deploy
+    
+## release
 
     $ mvn release:prepare release:perform
