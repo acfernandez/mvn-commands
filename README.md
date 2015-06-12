@@ -9,3 +9,11 @@ A little list about some Maven commands:
 ## release
 
     $ mvn release:prepare release:perform
+
+## build eclipse project
+
+    $ mvn eclipse:eclipse
+    
+## build eclipse workspace
+
+    $ mvn eclipse:configure-workspace
